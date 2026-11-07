@@ -58,3 +58,5 @@ Juan Nicolas Contreras Arias
 ## Estado
 
 Prototipo en desarrollo.
+
+PSDT: No funciono el proyecto al sustentar ya que los leds estaban mal conectaos :( 
