@@ -43,7 +43,7 @@ Condrez Gallitos es un prototipo electrónico desarrollado con ESP32 y MicroPyth
 
 ## Simulación en Wokwi
 
-https://wokwi.com/projects/479992449705592833https://wokwi.com/projects/479992449705592833
+(https://wokwi.com/projects/479995127566781441)
 
 ## Archivos del proyecto
 
